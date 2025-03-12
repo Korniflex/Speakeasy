@@ -9,7 +9,7 @@ pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tessera
 
 #STEP  1 TKINTER
 #eine User Interface erstellen mit Tkinter mit:
-# Hauptfenster (begrueßungswort?)
+# Hauptfenster (Logo?)
 # Knopf um ein Bild hochzuladen
 # 
 #Step2 PYTESSERACT
